@@ -1,6 +1,6 @@
 # Image classification basics
 
-An basic, tutorial-style implementation of a feedforward neural network (Multilayer Perceptron) trained on the MNIST handwritten digit dataset
+Basic, tutorial-style implementation of a feedforward neural network (Multilayer Perceptron) trained on the MNIST handwritten digit dataset
 
 ---
 
